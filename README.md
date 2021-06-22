@@ -1,3 +1,3 @@
 # Artificial-Intelligence
 
-this is my artificial intelligence projet hub
+this is my artificial intelligence project hub
